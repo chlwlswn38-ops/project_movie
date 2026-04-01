@@ -18,7 +18,14 @@ st.set_page_config(
 )
 
 # 한글 폰트 경로 (Mac 시스템 폰트)
-FONT_PATH = "/System/Library/Fonts/Supplemental/AppleGothic.ttf"
+# 한글 폰트 설정 (환경별 대응)
+if os.path.exists("/System/Library/Fonts/Supplemental/AppleGothic.ttf"):
+    FONT_PATH = "/System/Library/Fonts/Supplemental/AppleGothic.ttf" # Mac
+elif os.path.exists("/usr/share/fonts/truetype/nanum/NanumGothic.ttf"):
+    FONT_PATH = "/usr/share/fonts/truetype/nanum/NanumGothic.ttf" # Linux (common)
+else:
+    FONT_PATH = None # Fallback
+
 
 # --- [UI/UX 디자인] 글래스모피즘 & 고대비 텍스트 스타일 ---
 st.markdown(f"""
