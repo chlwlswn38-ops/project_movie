@@ -1,0 +1,709 @@
+{
+  "pilot_movies": [
+    {
+      "title": "왕과 사는 남자",
+      "english_title": "The King's Warden",
+      "movie_code": "20242837",
+      "opening_date": "20260204",
+      "youtube_video_ids": [
+        "WSuFJ_0H1pQ",
+        "tRIr31Ym5Gw",
+        "60JWOjOXb3g",
+        "dau7q-x9J1M",
+        "asD2S7aQrww"
+      ]
+    },
+    {
+      "title": "명량",
+      "english_title": "The Admiral: Roaring Currents",
+      "movie_code": "20129370",
+      "opening_date": "20140730",
+      "youtube_video_ids": [
+        "spQtwggaCy4",
+        "RiodXMaKiw0",
+        "MJnromBupnQ",
+        "KGz6IN40RP8",
+        "DZ4oOgDtS7k"
+      ]
+    },
+    {
+      "title": "극한직업",
+      "english_title": "Extreme Job",
+      "movie_code": "20182530",
+      "opening_date": "20190123",
+      "youtube_video_ids": [
+        "xM1CIQd_X4c",
+        "ALrsF98QxeE",
+        "wmbpsocl8DY",
+        "BaIRaKXrLPk",
+        "TkdBs6CZs34",
+        "opZMlIquhvo",
+        "pnnzZGqwvt4",
+        "Hp8I4JBhls4",
+        "Yy9MsuS0SoQ",
+        "lxRrFVn8qUQ",
+        "zKnwxNqT8qo",
+        "-OvSJ4_zc2c",
+        "-i30N-ZxuTo",
+        "tK13OK8PNPc",
+        "9qJvYm4c1Z4",
+        "06WuFmWW3dI",
+        "4hdmU84Z0N0",
+        "p9PQ5MNQWa0",
+        "ofyukk1UVjE",
+        "ZPgiNHJvq5I",
+        "Bx8u6LmtO8w",
+        "zSsnJ-pFaWs",
+        "PBGwUQfUuhY",
+        "58ohcFx8UIM",
+        "N5N7pwS0JXs"
+      ]
+    },
+    {
+      "title": "파묘",
+      "english_title": "Exhuma",
+      "movie_code": "20234675",
+      "opening_date": "20240222",
+      "youtube_video_ids": [
+        "rjW9E1BR_30",
+        "fRkOWmfZjkY",
+        "9sxEZuJskvM",
+        "yJJJUp3mbiU",
+        "Fl0XzIW36Nk"
+      ]
+    },
+    {
+      "title": "서울의 봄",
+      "english_title": "12.12: The Day",
+      "movie_code": "20212866",
+      "opening_date": "20231122",
+      "youtube_video_ids": [
+        "0AZ0uH4O1_g",
+        "-AZ7cnwn2YI",
+        "yJJJUp3mbiU",
+        "93_O6N4wKpA",
+        "V0nnN9J5xSc"
+      ]
+    },
+    {
+      "title": "범죄도시2",
+      "english_title": "The Roundup",
+      "movie_code": "20204548",
+      "opening_date": "20220518",
+      "youtube_video_ids": [
+        "B8Inr1koAvk",
+        "Lcy1vnU7RHw",
+        "i_4vWUFuxZ4",
+        "Q17WlyOfGNU",
+        "DfqBfjboSNE"
+      ]
+    },
+    {
+      "title": "신과함께-죄와 벌",
+      "english_title": "Along with the Gods: The Two Worlds",
+      "movie_code": "20150976",
+      "opening_date": "20171220",
+      "youtube_video_ids": [
+        "5O5PVvHTWRo",
+        "7CVf4nJQ_aA",
+        "-Ezwi9khs0A",
+        "amXcMw8cJZk",
+        "rD46p33bAvE"
+      ]
+    },
+    {
+      "title": "국제시장",
+      "english_title": "Ode to My Father",
+      "movie_code": "20137048",
+      "opening_date": "20141217",
+      "youtube_video_ids": [
+        "RJpJyf3pCg4",
+        "WQUkndzfUJU",
+        "BBEDtovULHY",
+        "4TwmvNNlWqI",
+        "SbafUpZCvpk"
+      ]
+    },
+    {
+      "title": "한산: 용의 출현",
+      "english_title": "",
+      "movie_code": "20209343",
+      "opening_date": "20220727",
+      "youtube_video_ids": [
+        "qX88HyEPdTk",
+        "bDMkCcHJpDI",
+        "xv9-ZrBjVuo",
+        "FLNUcZxCT6k",
+        "GduEtmvwcI0"
+      ]
+    },
+    {
+      "title": "공조2: 인터내셔날",
+      "english_title": "",
+      "movie_code": "20215601",
+      "opening_date": "20220907",
+      "youtube_video_ids": [
+        "evCgsTK_X9k",
+        "fzUKUfHeIYA",
+        "o3uTS6bvuho",
+        "3gvXCHwTSp0",
+        "YyKd6TfQQi8"
+      ]
+    },
+    {
+      "title": "베테랑2",
+      "english_title": "",
+      "movie_code": "20239670",
+      "opening_date": "20240913",
+      "youtube_video_ids": [
+        "6wJns8AaYi0",
+        "mAHiT4Rny2M",
+        "a976nBHtEaY",
+        "MVLFrtLNItQ",
+        "hcKp68DtBb0"
+      ]
+    },
+    {
+      "title": "밀수",
+      "english_title": "",
+      "movie_code": "20218541",
+      "opening_date": "20230726",
+      "youtube_video_ids": [
+        "I3X8qxspYYI",
+        "7t9t6MWrq3A",
+        "EAK9As7X97s",
+        "K0G_sD6Pmf0",
+        "-Y1EM2uhZjo",
+        "NaAw1lWSbMY",
+        "gNOMUIcC7wA",
+        "UGJ0GWIe-mI",
+        "IfWIWZbIybw",
+        "2YcsQ5jaqgI",
+        "BdGPaM1UvSw",
+        "AvelsY-2KLk",
+        "y7RfN0mqcps",
+        "ZD3vV_exs8c"
+      ]
+    },
+    {
+      "title": "하얼빈",
+      "english_title": "",
+      "movie_code": "20228796",
+      "opening_date": "20241224",
+      "youtube_video_ids": [
+        "Q5AVMM1IWXM",
+        "bFDCCaYDPxs",
+        "4DvwVVqI4ho",
+        "9TOfCZfnWkI",
+        "Zc3W3xNHXbw"
+      ]
+    },
+    {
+      "title": "노량: 죽음의 바다",
+      "english_title": "",
+      "movie_code": "20203702",
+      "opening_date": "20231220",
+      "youtube_video_ids": [
+        "HPRkiVU39I4",
+        "QbphQVV3XjA",
+        "THzDQn2QW8o",
+        "MDLnK4zQQj0",
+        "xYJBWz2-c8U"
+      ]
+    },
+    {
+      "title": "엑시트",
+      "english_title": "",
+      "movie_code": "20184621",
+      "opening_date": "20190731",
+      "youtube_video_ids": [
+        "li4jOV5j7SI",
+        "M2_7wzCXun8",
+        "Fy6ZXFJDt2w",
+        "eW_ur9CM7eo",
+        "vPPKR7pkouY"
+      ]
+    },
+    {
+      "title": "백두산",
+      "english_title": "",
+      "movie_code": "20192206",
+      "opening_date": "20191219",
+      "youtube_video_ids": [
+        "FKAbTcss1ow",
+        "Evu7gHNqhT4",
+        "n85R_kUszrc",
+        "DcGjvgPDuAc",
+        "qeE02xbwwuI"
+      ]
+    },
+    {
+      "title": "안시성",
+      "english_title": "",
+      "movie_code": "20176122",
+      "opening_date": "20180919",
+      "youtube_video_ids": [
+        "dmMjjsMLxLk",
+        "oPDvJgpeLzo"
+      ]
+    },
+    {
+      "title": "내부자들",
+      "english_title": "",
+      "movie_code": "20149314",
+      "opening_date": "20151119",
+      "youtube_video_ids": [
+        "yJJJUp3mbiU",
+        "5-03Uc9X-bc",
+        "UCduDb1Pb0A",
+        "48D16M8GSyo",
+        "AlsUHC_F_Mg"
+      ]
+    },
+    {
+      "title": "인천상륙작전",
+      "english_title": "",
+      "movie_code": "20156250",
+      "opening_date": "20160727",
+      "youtube_video_ids": [
+        "pipSMfuS8ow",
+        "spQtwggaCy4",
+        "cjtjiKa9uO4",
+        "fnHKxE9EyKI",
+        "M_l1IjV-Ycw"
+      ]
+    },
+    {
+      "title": "마스터",
+      "english_title": "",
+      "movie_code": "20150970",
+      "opening_date": "20161221",
+      "youtube_video_ids": [
+        "OWorRvMltCc",
+        "NCMHki_wSR0",
+        "YV3WbkPaDHE",
+        "mYCCuU-SLJE",
+        "u_x_1DlJ-4Q"
+      ]
+    },
+    {
+      "title": "청년경찰",
+      "english_title": "",
+      "movie_code": "20162442",
+      "opening_date": "20170809",
+      "youtube_video_ids": [
+        "uflYEv_0JoY",
+        "LJD4hiX45tc",
+        "ijbdrLUu-Y4",
+        "Lnv0IUNxuJo",
+        "ezi9PrbvP0c"
+      ]
+    },
+    {
+      "title": "1987",
+      "english_title": "",
+      "movie_code": "20170590",
+      "opening_date": "20171227",
+      "youtube_video_ids": [
+        "WKQSRFlfr50",
+        "_6_id7fZxhs",
+        "jdWLPiTktV4",
+        "lOOZ9IiCWp8",
+        "E7Dfq5ZLDv4",
+        "FcEpyaDWdJM",
+        "oSlthcN0694",
+        "RLrQdPGKimA",
+        "91CBg12OPCM",
+        "Y17LE9xEwSg",
+        "F82g-xByqvQ",
+        "CIRgi1-YdtY",
+        "dbe60yWMsL0",
+        "8GGH9hW_SbE",
+        "x0N_m4SiAQ0",
+        "zfaXDIKiaeI"
+      ]
+    },
+    {
+      "title": "완벽한 타인",
+      "english_title": "",
+      "movie_code": "20177538",
+      "opening_date": "20181031",
+      "youtube_video_ids": [
+        "-UWdeFywycs",
+        "NIsSR7-YwcY",
+        "d9hWs7q3Rf4",
+        "EO-Y6Zevuls",
+        "HamhFTwgf_U"
+      ]
+    },
+    {
+      "title": "독전",
+      "english_title": "",
+      "movie_code": "20176140",
+      "opening_date": "20180522",
+      "youtube_video_ids": [
+        "yJJJUp3mbiU",
+        "heJ9bMVk_rQ",
+        "DN4YQl4wbXM",
+        "RKrmJANgzvs",
+        "0YCYf4cW8XQ"
+      ]
+    },
+    {
+      "title": "강철비",
+      "english_title": "",
+      "movie_code": "20170402",
+      "opening_date": "20171214",
+      "youtube_video_ids": [
+        "fkSyE0qidyI",
+        "KKPUEANoHAo",
+        "w7UVh9bXzZM",
+        "4G8RU1y2Blc",
+        "-ZC1Sx-mvvg",
+        "bquBi3gF4j8",
+        "X5Zs9fRySaY",
+        "itWlVW7koXY",
+        "cQSeQCo1GHY",
+        "izsbLJ2F7mo",
+        "GUZM3RoMl7E",
+        "nCsO8lSZzZk",
+        "26CBbkZEARc",
+        "ZRfXrxAGj6Y",
+        "ffTYnRrZBZA",
+        "sYIAi5Dph88",
+        "f8y_kJ8j4uE",
+        "MUitt2C_YTA",
+        "1FEx1KLfq2g",
+        "aIp6ubIyvbM"
+      ]
+    },
+    {
+      "title": "남한산성",
+      "english_title": "",
+      "movie_code": "20165450",
+      "opening_date": "20171003",
+      "youtube_video_ids": [
+        "cVYh2rXOnNQ",
+        "s2KFCmJ3XOM",
+        "DSLmeEK_bTE",
+        "DNplhSG1LoI",
+        "mTfDA9e6vaA"
+      ]
+    },
+    {
+      "title": "꾼",
+      "english_title": "",
+      "movie_code": "20165748",
+      "opening_date": "20171122",
+      "youtube_video_ids": [
+        "PA4rsZbNVbA",
+        "JGZRsTnYX0E",
+        "5eoa000Itaw",
+        "y422jVFruic",
+        "KUxM51tzGBE",
+        "VJAPZ9cIbs0",
+        "_IhinFn7HdA",
+        "cq1ibqIyhFA",
+        "HqhAcT2_xEk",
+        "eCOUzLZ_TPE",
+        "xsFusDKkFeo",
+        "HEUzexWeCEs",
+        "PA83EG2rNrQ",
+        "o6xoiQzT7Ko",
+        "Rzho-kh5kiA",
+        "kd__7eXQ8KU",
+        "f0byY6n_wGw"
+      ]
+    },
+    {
+      "title": "히말라야",
+      "english_title": "",
+      "movie_code": "20136068",
+      "opening_date": "20151216",
+      "youtube_video_ids": [
+        "9FS0YFIJU7Q",
+        "2DhBlbRc_d8",
+        "HwZT3bCxgjA",
+        "j8BGMaIz97k",
+        "7giNSj_BF5o"
+      ]
+    },
+    {
+      "title": "모가디슈",
+      "english_title": "",
+      "movie_code": "20204117",
+      "opening_date": "20210728",
+      "youtube_video_ids": [
+        "3V-SWIEEM_M",
+        "VOdDMmSjle0",
+        "Dm3gThvkgto",
+        "nbdpSpJzrRU",
+        "LbKW60rKvBE"
+      ]
+    },
+    {
+      "title": "싱크홀",
+      "english_title": "",
+      "movie_code": "20196270",
+      "opening_date": "20210811",
+      "youtube_video_ids": [
+        "_Pg2ieBoPQA",
+        "SdYxrhZod_0",
+        "WNZlKa6zMTU",
+        "XybDWCx_JNY",
+        "N9SPWi2jJY4"
+      ]
+    },
+    {
+      "title": "헌트",
+      "english_title": "",
+      "movie_code": "20211792",
+      "opening_date": "20220810",
+      "youtube_video_ids": [
+        "xQnsFqn44uo",
+        "xJUOIKg4Bic",
+        "1RLlCg-LFKI",
+        "CSOb8gia_mg",
+        "r5RWE0OB2Hw"
+      ]
+    },
+    {
+      "title": "올빼미",
+      "english_title": "",
+      "movie_code": "20227762",
+      "opening_date": "20221123",
+      "youtube_video_ids": [
+        "eRX5_KUyx7c",
+        "jyrXG9QC9ZI",
+        "44jZb7jcHJ0",
+        "OJeJ1KHOhoU",
+        "xXUZEk4QP8Y"
+      ]
+    },
+    {
+      "title": "영웅",
+      "english_title": "",
+      "movie_code": "20196478",
+      "opening_date": "20221221",
+      "youtube_video_ids": [
+        "9sxEZuJskvM",
+        "JDwLxiTPrCQ",
+        "0y5HvwJ8RrQ",
+        "gSXuP6Pt0BY",
+        "BOEVQSprNv4"
+      ]
+    },
+    {
+      "title": "콘크리트 유토피아",
+      "english_title": "",
+      "movie_code": "20204264",
+      "opening_date": "20230809",
+      "youtube_video_ids": [
+        "5VxP4FDekko",
+        "hAO9a1xSo3M",
+        "bskLqeBf2nE",
+        "OedJ-jxApR0",
+        "pZcJxORD1gE"
+      ]
+    },
+    {
+      "title": "파일럿",
+      "english_title": "",
+      "movie_code": "20224666",
+      "opening_date": "20240731",
+      "youtube_video_ids": [
+        "amI9ujTxtH4",
+        "7xhEeWNLY80",
+        "Vb4TNEQXNTk",
+        "nvEHmZgsN0E",
+        "H4kE673DNdM"
+      ]
+    },
+    {
+      "title": "탈주",
+      "english_title": "",
+      "movie_code": "20212932",
+      "opening_date": "20240703",
+      "youtube_video_ids": [
+        "yJJJUp3mbiU",
+        "vWFq0iaoaAg",
+        "4HG8JZxa4Hk",
+        "yXwC5Oe_5Ok",
+        "vKhaR4RnJfE"
+      ]
+    },
+    {
+      "title": "교섭",
+      "english_title": "",
+      "movie_code": "20190808",
+      "opening_date": "20230118",
+      "youtube_video_ids": [
+        "kJnmT5BS4SA",
+        "jctpxU1GIRg",
+        "rUw7FhaVtVs",
+        "Bw6BckR0f4s",
+        "XgiRJxhs8Oc"
+      ]
+    },
+    {
+      "title": "핸섬가이즈",
+      "english_title": "",
+      "movie_code": "20208245",
+      "opening_date": "20240626",
+      "youtube_video_ids": [
+        "drKYkxmuEiU",
+        "oGbkEBrqUAs",
+        "x1PhVJw532k",
+        "5KN3eZHXSTs"
+      ]
+    },
+    {
+      "title": "인질",
+      "english_title": "",
+      "movie_code": "20192194",
+      "opening_date": "20210818",
+      "youtube_video_ids": [
+        "kJnmT5BS4SA",
+        "zE36E8_hazE",
+        "xP7bOeR6hAI",
+        "65tYRAimcmA",
+        "C_UctmfuoPM",
+        "cYLzX0iO2U4",
+        "9YoXmb2yL1g",
+        "WPn8qwGfnI8",
+        "2cvumTrfIFo",
+        "XgiRJxhs8Oc",
+        "pF6UahgwG6k",
+        "KiVNoOoMYWQ",
+        "BQDOJhdvZks",
+        "huWCm3snsaw",
+        "oMzJhFYdK3o"
+      ]
+    },
+    {
+      "title": "보이스",
+      "english_title": "",
+      "movie_code": "20190207",
+      "opening_date": "20210915",
+      "youtube_video_ids": [
+        "0HwbnAPkH6c",
+        "pvnkgyl88jc",
+        "ceai2LjChwI",
+        "zp_aqJMFNuw",
+        "k3P4v7nj4eg"
+      ]
+    },
+    {
+      "title": "시민덕희",
+      "english_title": "",
+      "movie_code": "20206946",
+      "opening_date": "20240124",
+      "youtube_video_ids": []
+    },
+    {
+      "title": "외계+인 2부",
+      "english_title": "",
+      "movie_code": "20235253",
+      "opening_date": "20240110",
+      "youtube_video_ids": [
+        "rfbwr5oPO7c",
+        "l9288UVTHkA",
+        "SlnlEiXtxfE",
+        "4uSn4Dem9i0",
+        "lH0gBidynI8"
+      ]
+    },
+    {
+      "title": "슬립",
+      "english_title": "",
+      "movie_code": "20211942",
+      "opening_date": "20230906",
+      "youtube_video_ids": [
+        "pqKITJVm3GI",
+        "bzSzkxT-ya8",
+        "trqSKPutkPQ",
+        "mKFleKy3Si8",
+        "pb-Gzxo8lq4"
+      ]
+    },
+    {
+      "title": "드림",
+      "english_title": "",
+      "movie_code": "20191221",
+      "opening_date": "20230426",
+      "youtube_video_ids": [
+        "ALrsF98QxeE",
+        "7pB7DPBqqvk",
+        "UoXfG4uxl6o",
+        "IhiIMsmRcPs",
+        "96A9KXLHnZc"
+      ]
+    },
+    {
+      "title": "마녀",
+      "english_title": "",
+      "movie_code": "20170513",
+      "opening_date": "20180627",
+      "youtube_video_ids": [
+        "0O9rtOolCvw",
+        "SEUyEpGHcsA",
+        "a-jgOhtQXy4",
+        "Ps7y29Lp0Z8",
+        "ApQApfgF4YQ"
+      ]
+    },
+    {
+      "title": "곤지암",
+      "english_title": "",
+      "movie_code": "20180804",
+      "opening_date": "20180328",
+      "youtube_video_ids": [
+        "CfYolB0hoa0",
+        "JacSOSkuOno",
+        "CjcVZVxL_3c",
+        "V2cuj8J_LEQ",
+        "8AVFo0ZC5J4"
+      ]
+    },
+    {
+      "title": "박열",
+      "english_title": "",
+      "movie_code": "20178982",
+      "opening_date": "20170628",
+      "youtube_video_ids": [
+        "yJJJUp3mbiU",
+        "RL-qYJFaF7E",
+        "bSEuymOrCbg",
+        "j8BGMaIz97k",
+        "ZxEzTVVyYUE"
+      ]
+    },
+    {
+      "title": "나쁜 녀석들: 더 무비",
+      "english_title": "",
+      "movie_code": "20188750",
+      "opening_date": "20190911",
+      "youtube_video_ids": [
+        "1kmv9aE8ufg",
+        "Nj9FuZjZi0A",
+        "1OJZSa5258A",
+        "LllIq8RE9Jg",
+        "-LuaLI78-4s"
+      ]
+    }
+  ],
+  "collection_targets": {
+    "naver_blog_per_movie": 200,
+    "naver_cafe_per_movie": 200,
+    "naver_date_filter_days": 30,
+    "youtube_comments_per_video": [
+      200,
+      500
+    ]
+  },
+  "storage_schema": {
+    "naver": "naver_review_proxy.csv",
+    "youtube_metrics": "youtube_metrics.csv",
+    "youtube_comments": "youtube_comments.csv"
+  }
+}
